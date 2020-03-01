@@ -1,7 +1,8 @@
 # CSS-Progress-Rreprentation
 ![CSS-Progress](https://github.com/poojan28/CSS-Progress-Rreprentation/blob/master/css-progress.JPG)
-#scss
-.box{
+# scss
+
+    .box{
         width:100%;
         position: relative;
         display:flex;
